@@ -1,2 +1,2 @@
-# Metodolog-a-de-la-programaci-n
+# Metodologia-de-la-programacion
 Una serie de ejercicios de Metodología de la programación.
