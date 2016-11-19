@@ -5,4 +5,4 @@ Una serie de ejercicios de Metodología de la programación.
 Álvaro Fernández García.
 Juan Manuel Castillo Nievas.
 Grado en Ingenieria Informática, Curso 2015-2016, ETSIIT
-<p>  
+
