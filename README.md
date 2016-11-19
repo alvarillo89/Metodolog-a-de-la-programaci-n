@@ -7,5 +7,5 @@ Autores:
 
 Juan Manuel Castillo Nievas.
 
-Grado en Ingenieria Informática, Curso 2015-2016, ETSIIT
+Grado en Ingenieria Informática, Curso 2015-2016, ETSIIT.
 
