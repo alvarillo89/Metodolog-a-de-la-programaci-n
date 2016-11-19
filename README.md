@@ -1,4 +1,4 @@
-# Metodologia-de-la-programacion
+# Metodología de la programación
 Una serie de ejercicios de Metodología de la programación.
 
 Autores:
