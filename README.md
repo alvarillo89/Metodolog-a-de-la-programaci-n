@@ -1,5 +1,5 @@
 # Metodologia-de-la-programacion
-Una serie de ejercicios de Metodología de la programación.
+\nUna serie de ejercicios de Metodología de la programación.
 Autores: Álvaro Fernández García.
          Juan Manuel Castillo Nievas.
 
