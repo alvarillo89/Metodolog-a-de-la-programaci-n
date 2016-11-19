@@ -1,0 +1,22 @@
+Álvaro Fernández García.
+
+1. Encuentre los errores de las siguientes funciones:
+
+- En la función ValorAbsoluto el error está, en que detro del if no aparece el return,
+por tanto, si la condición es verdadera, el programa al entrar por el if no mostrará nada,
+ya que el return está definido únicamente dentro del else.
+
+- En la función Imprime, el problema reside al haber declarado la variable "double valor" dentro 
+de la misma. Si no se hubiera declarado, la función operaría correctamente. Sin embargo, en 
+este caso, el cout << valor toma los datos de la variable valor declarada dentro de la función, no
+del valor que aparece dentro de los paréntesis. Por tanto la variable valor, no tiene ningún dato
+en la función.
+
+- En la función Cuadrado, el error está en que aparece un return junto con una 
+función del tipo void. La finalidad del void es establecer un tipo de función que no 
+precisa devolver ningún valor o resultado, por tanto no van acompañadas de la orden 
+return.
+
+- En la función EsPositivo, el error está en que el return se encuentra únicamente dentro de
+el if. Es el caso contrario a la función ValorAbsoluto. Si el dato introducido no cumple
+la condición especificada en el if, la función no devuelve ningún valor.

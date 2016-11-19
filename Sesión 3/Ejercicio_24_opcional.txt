@@ -1,0 +1,16 @@
+Álvaro Fernández García.
+
+24. Indicar si se produce un problema de precisión o de desbordamiento en los siguientes ejemplos 
+indicando cuál sería el resultado ?nal de las operaciones.
+
+a) Desbordamiento: El resultado real es 1.52*10^16, el programa muestra 1425960444.
+
+b) Desbordamiento: El resultado real es 1.52*10^16, el programa muestra 1425960444.
+
+c) Precisión: El resultado real es 15289.02, el programa muestra 15289.02.
+
+d) Precisión: El resultado real es 1.524157879*10^16, el programa muestra 1.5241579*10^16.
+
+e) Precisión: El resultado real es 1, el programa muestra 0.
+
+f) Precisión: El resultado real es 1, el programa muestra inf.
